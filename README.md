@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Natalia
+### Hi everyone 👋 I'm Natalia
 
 <!--
 **88Natalia88/88Natalia88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
