@@ -6,7 +6,7 @@ I'm Natalia and I'm a Frontend developer
 
 ## 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nataliia-balashova/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nataliia-balashova/) [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/Nataliia_Balashova)
 
 <!--
 **88Natalia88/88Natalia88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
