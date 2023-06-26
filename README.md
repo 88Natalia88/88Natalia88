@@ -7,7 +7,7 @@
 ## :woman_technologist: About Me :
 
 - 🌱 I’m currently learning React.js and JavaScript improvements;
-- 🚴 In my spare time, I like to ride a bike;
+- 🚴 In my free time, I like to ride a bike;
 
 ## 🌐 Connect with me:
 
