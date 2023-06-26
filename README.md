@@ -2,6 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/rqd9R3yaDy16a8kDC1/giphy.gif" width="100"/>
 </div>
+## 🌐 Socials:
 <!--
 **88Natalia88/88Natalia88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
