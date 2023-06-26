@@ -1,5 +1,5 @@
 ### Hi everyone👋 
-I'm Natalia and I'm a Frontend developer 
+<div align="center"><p>I'm Natalia and I'm a Frontend developer</p></div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/rqd9R3yaDy16a8kDC1/giphy.gif" width="250"/>
 </div>
