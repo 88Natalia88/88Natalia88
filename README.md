@@ -3,8 +3,11 @@ I'm Natalia and I'm a Frontend developer
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/rqd9R3yaDy16a8kDC1/giphy.gif" width="100"/>
 </div>
+
 ## 🌐 Connect with me:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nataliia-balashova/)
+
 <!--
 **88Natalia88/88Natalia88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
