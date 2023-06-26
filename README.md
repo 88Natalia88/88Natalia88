@@ -5,7 +5,7 @@
 </div>
 
 ### :woman_technologist: About Me :
----
+--
 - 🌱 I’m currently learning React.js and JavaScript improvements;
 - ⚡ In my free time, I read tech articles.
 
@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nataliia-balashova/) [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/Nataliia_Balashova) [![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100080057022262)
 
 ### :hammer_and_wrench: Languages and Tools :
----
+--
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 <!--
 **88Natalia88/88Natalia88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
