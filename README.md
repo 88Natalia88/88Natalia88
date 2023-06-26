@@ -12,6 +12,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nataliia-balashova/) [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/Nataliia_Balashova) [![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100080057022262)
 
+### :hammer_and_wrench: Languages and Tools :
+
 <!--
 **88Natalia88/88Natalia88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
